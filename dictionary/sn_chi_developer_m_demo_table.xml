@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Demo Table" max_length="40" name="sn_chi_developer_m_demo_table" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
